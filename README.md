@@ -1,2 +1,4 @@
-# CangGong_project
+# ChangGong_project
+
 숭실대학교 소프트웨어학부 창의공학설계 날씨지도 프로젝트에 사용된 코드입니다.
+
